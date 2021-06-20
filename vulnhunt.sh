@@ -1,4 +1,4 @@
-# Kindly Configure :
+# Configurations :
 PATH_TO_DNS_Resolvers="/path/resolvers.txt"
 PATH_TO_NucleiTakeoverTemplate="/path/nuclei-templates/takeovers/"
 PATH_TO_NucleiTemplates="/path/nuclei-templates/"
