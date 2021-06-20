@@ -28,8 +28,6 @@ Jump To :
 
 - [ScreenShots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#screenshots)
 
-- [Development](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#development) 
-
 
 # Features
 
@@ -104,7 +102,8 @@ open the bash file and configure
 ```
 # Requirements
 - Golang
-- [Required Tools](https://github.com/utkarsh24122/VulnHunt/blob/main/Required_tools.txt)
+- Check: [Required Tools](https://github.com/utkarsh24122/VulnHunt/blob/main/Required_tools.txt)
+
 PS: working on a single script to install all tools at once!
 
 # Usage
