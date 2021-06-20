@@ -1,18 +1,18 @@
 # Kindly Configure :
-PATH_TO_DNS_Resolvers="/home/morty/Tools/resolvers.txt"
-PATH_TO_NucleiTakeoverTemplate="/home/morty/nuclei-templates/takeovers/"
-PATH_TO_NucleiTemplates="/home/morty/nuclei-templates/"
-Path_To_FUZZ_Wordlist="/home/morty/onelistforallshort.txt" 
+PATH_TO_DNS_Resolvers="/path/resolvers.txt"
+PATH_TO_NucleiTakeoverTemplate="/path/nuclei-templates/takeovers/"
+PATH_TO_NucleiTemplates="/path/nuclei-templates/"
+Path_To_FUZZ_Wordlist="/path/list.txt" 
 # Recomended Wordlist : https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallshort.txt
-path_to_paramspider="/home/morty/ParamSpider/paramspider.py" 
+path_to_paramspider="/path/ParamSpider/paramspider.py" 
 # wget: https://github.com/devanshbatham/ParamSpider/blob/master/paramspider.py
-path_to_ctfr_tool="/home/morty/Tools/ctfr/ctfr.py"
+path_to_ctfr_tool="/path/ctfr/ctfr.py"
 # wget https://github.com/UnaPibaGeek/ctfr/blob/master/ctfr.py
-cors_path="/home/headshot/Tools/Corsy/corsy.py" # Path to corsy.py 
-path_OR="/home/headshot/Tools/OpenRedireX/openredirex.py" #path to openredirex.py
-OR_payloads="/home/headshot/Tools/OpenRedireX/payloads.txt" # Path to OpenRedirect payloads
-lfi_wordlist="/home/headshot/Tools/lfi_wordlist.txt" # Path to LFI wordlist
-sqlmap="//home/headshot/Tools/sqlmap/sqlmap.py" # Path to sqlmap.py
+cors_path="/path/Corsy/corsy.py" # Path to corsy.py 
+path_OR="/path/OpenRedireX/openredirex.py" #path to openredirex.py
+OR_payloads="/path/OpenRedireX/payloads.txt" # Path to OpenRedirect payloads
+lfi_wordlist="/path/lfi_wordlist.txt" # Path to LFI wordlist
+sqlmap="/path/sqlmap/sqlmap.py" # Path to sqlmap.py
 # XSS_SERVER="" # Add XSS server and uncomment; else leave commented
 
 echo "____    ____  __    __   __      .__   __.  __    __   __    __  .__   __. .___________. _______ .______      	"
@@ -285,7 +285,7 @@ if [[ $(cat ./vulns/crlf.txt | wc -l) -le 1 ]]; then
 echo "No CRLF found"
 fi
 
-echo -e "\n\e[36m[\e[32m+\e[36m]\e[92m SSTI Output Saved in /vulns/crlf.txt \e[0m\n" 
+echo -e "\n\e[36m[\e[32m+\e[36m]\e[92m CRLF Output Saved in /vulns/crlf.txt \e[0m\n" 
 echo ""
 
 #										SQLi Check
