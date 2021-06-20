@@ -1,18 +1,18 @@
 # VulnHunt
 Automated Vulnerability Checks
 
-Finds CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more. Check : [Features]()
+Finds CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more on the target and its subdomains. Check : [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features)
 
 Run in background while you are testing manually 🍕
 
 ```
-____    ____  __    __   __      .__   __.  __    __   __    __  .__   __. .___________. _______ .______      	"
-\   \  /   / |  |  |  | |  |     |  \ |  | |  |  |  | |  |  |  | |  \ |  | |           ||   ____||   _  \     	"
- \   \/   /  |  |  |  | |  |     |   \|  | |  |__|  | |  |  |  | |   \|  |  ---|  |---- |  |__   |  |_)  |    	"
-  \      /   |  |  |  | |  |     |  .    | |   __   | |  |  |  | |  .    |     |  |     |   __|  |      /     	"
-   \    /    |   --'  | |   ----.|  |\   | |  |  |  | |   --'  | |  |\   |     |  |     |  |____ |  |\  \----.	"
-    \__/      \______/  |_______||__| \__| |__|  |__|  \______/  |__| \__|     |__|     |_______|| _|  ._____|	"
-                                                                     													    @utkarsh24122"
+____    ____  __    __   __      .__   __.  __    __   __    __  .__   __. .___________. _______ .______      	
+\   \  /   / |  |  |  | |  |     |  \ |  | |  |  |  | |  |  |  | |  \ |  | |           ||   ____||   _  \     	
+ \   \/   /  |  |  |  | |  |     |   \|  | |  |__|  | |  |  |  | |   \|  |  ---|  |---- |  |__   |  |_)  |    	
+  \      /   |  |  |  | |  |     |  .    | |   __   | |  |  |  | |  .    |     |  |     |   __|  |      /     	
+   \    /    |   --'  | |   ----.|  |\   | |  |  |  | |   --'  | |  |\   |     |  |     |  |____ |  |\  \----.	
+    \__/      \______/  |_______||__| \__| |__|  |__|  \______/  |__| \__|     |__|     |_______|| _|  ._____|	
+                                                                   	@utkarsh24122"
   
 ```
 
@@ -89,29 +89,22 @@ Faster fuzzing using interlace multithreading
 
 # Installation
 ```
-$ git clone https://github.com/utkarsh24122/Shufti
-$ cd Shufti
-$ chmod +x shufti.sh
+$ git clone https://github.com/utkarsh24122/VulnHunt
+$ cd VulnHunt
+$ chmod +x vulnhunt.sh
 
 ```
-open shell file and configure
+open the bash file and configure
 ```
-# Kindly Configure :
-PATH_TO_DNS_Resolvers="[path]/resolvers.txt"
-PATH_TO_NucleiTakeoverTemplate="[path]/nuclei-templates/takeovers/"
-Path_To_FUZZ_Wordlist="onelistforallshort.txt" 
-# Recomended Wordlist : https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallshort.txt
-path_to_paramspider="[path]/ParamSpider/paramspider.py" 
-# wget: https://github.com/devanshbatham/ParamSpider/blob/master/paramspider.py
-path_to_ctfr_tool="[path]/ctfr/ctfr.py"
-# wget https://github.com/UnaPibaGeek/ctfr/blob/master/ctfr.py
+#  Configurations:
+
 ```
 # Requirements
 - Golang
-- [Required Tools](https://github.com/utkarsh24122/Shufti/blob/main/Required_tools.txt)
+- [Required Tools](https://github.com/utkarsh24122/VulnHunt/blob/main/Required_tools.txt)
 PS: working on a single script to install all tools at once!
 
 # Usage
 ```
-./shufti.sh target.com
+./vulnhunt.sh target.com
 ```
