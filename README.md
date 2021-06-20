@@ -85,6 +85,7 @@ CRLF
 SSTI
 
 - Fuzzing to find sensitive files/directories
+
 Faster fuzzing using interlace multithreading
 
 # Installation
