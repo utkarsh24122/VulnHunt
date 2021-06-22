@@ -1,7 +1,7 @@
 # VulnHunt
 Finds CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more on the target and its subdomains. 
 
-Check : [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features)
+Check : [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features) & [Screenshots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#Screenshots)
 
 Automated Vulnerability Checks
 
@@ -125,3 +125,12 @@ PS: working on a single script to install all tools at once!
 ```
 ./vulnhunt.sh target.com
 ```
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/54320208/122884741-118f7b80-d35c-11eb-92ce-fb94390bb1d7.png)
+![image](https://user-images.githubusercontent.com/54320208/122885320-9bd7df80-d35c-11eb-905b-2e6087a9e3ae.png)
+![image](https://user-images.githubusercontent.com/54320208/122885474-bf028f00-d35c-11eb-8a95-fd4d717d1977.png)
+![image](https://user-images.githubusercontent.com/54320208/122885559-d04b9b80-d35c-11eb-9fc5-3ed921f0e79a.png)
+![image](https://user-images.githubusercontent.com/54320208/122885719-f5d8a500-d35c-11eb-8dba-fed506185433.png)
+
+
