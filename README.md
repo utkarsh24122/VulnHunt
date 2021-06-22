@@ -1,7 +1,7 @@
 # VulnHunt
 Finds CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more on the target and its subdomains. 
 
-Check : [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features) & [Screenshots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#Screenshots)
+Check : [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features-) & [Screenshots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-screenshots)
 
 Automated Vulnerability Checks
 
@@ -19,15 +19,15 @@ ____    ____  __    __   __      .__   __.  __    __   __    __  .__   __. .____
 
 Jump To :
 
-- [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features)                
+- [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features-)                
 
-- [Installation](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#installation)
+- [Installation](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-installation)
 
-- [Requirements](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#requirements)
+- [Requirements](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-requirements)
 
-- [Usage](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#usage)
+- [Usage](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-usage)
 
-- [ScreenShots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#screenshots)
+- [ScreenShots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-screenshots)
 
 
 # Features ✨
