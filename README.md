@@ -117,7 +117,7 @@ sqlmap="/path/sqlmap/sqlmap.py" # Path to sqlmap.py
 ```
 # Requirements
 - Golang
-- Check: [Required Tools](https://github.com/utkarsh24122/VulnHunt/blob/main/Required_tools.txt)
+- Check: [Required Tools](https://github.com/utkarsh24122/VulnHunt/blob/main/Required_tools.md)
 
 PS: working on a single script to install all tools at once!
 
