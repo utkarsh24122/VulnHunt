@@ -30,7 +30,8 @@ Jump To :
 - [ScreenShots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#screenshots)
 
 
-# Features
+# Features ✨
+
 
 - Passive Subdomain Enumeration (All latest Tools used)
 - Active Subdomain Enumeration  (DNSx)
@@ -89,7 +90,7 @@ SSTI
 
   Faster fuzzing using interlace multithreading
 
-# Installation
+# ⚙ Installation
 ```
 $ git clone https://github.com/utkarsh24122/VulnHunt
 $ cd VulnHunt
@@ -115,18 +116,18 @@ lfi_wordlist="/path/lfi_wordlist.txt" # Path to LFI wordlist
 sqlmap="/path/sqlmap/sqlmap.py" # Path to sqlmap.py
 # XSS_SERVER="" # Add XSS server and uncomment; else leave commented
 ```
-# Requirements
+# 📌 Requirements
 - Golang
 - Check: [Required Tools](https://github.com/utkarsh24122/VulnHunt/blob/main/Required_tools.md)
 
 PS: working on a single script to install all tools at once!
 
-# Usage
+# 🖲 Usage
 ```
 ./vulnhunt.sh target.com
 ```
 
-# Screenshots
+# 💿 Screenshots
 ![image](https://user-images.githubusercontent.com/54320208/122884741-118f7b80-d35c-11eb-92ce-fb94390bb1d7.png)
 ![image](https://user-images.githubusercontent.com/54320208/122885320-9bd7df80-d35c-11eb-905b-2e6087a9e3ae.png)
 ![image](https://user-images.githubusercontent.com/54320208/122885474-bf028f00-d35c-11eb-8a95-fd4d717d1977.png)
