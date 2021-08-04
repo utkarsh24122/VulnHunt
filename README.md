@@ -37,35 +37,22 @@ Jump To :
 - Active Subdomain Enumeration  (DNSx)
 - Subdomain Enum by Certificate Transparency
 - DNS Subdomain Enumeration
-
-.
-
+<br/><br/>
 - Scans for Subdomain Takeover using Nuclei Templates
-
-.
-
+<br/><br/>
 - Filters active subdomains (DNS Resolution & probing)
 - Segregates Subdomains according to response code
-
-.
-
+<br/><br/>
 - CVE scans using nuclei templates 
-
-.
-
+<br/><br/>
 - All vulnerabilties Check using extra templates  
-
-.
+<br/><br/>
 - URL Extraction
 - JavaScript Files Extraction
 - Parameter Discovery
-
-.
-
+<br/><br/>
 - GF Pattern Search for XSS, SSTI, OpenRedirect, SQLi, SSRF, RCE, LFI
-
-.
-
+<br/><br/>
 - Vulnerability Checks for 
 
 XSS
@@ -83,13 +70,11 @@ LFI
 CRLF
 
 SSTI
-
-.
-
+<br/><br/>
 - Fuzzing to find sensitive files/directories
 
   Faster fuzzing using interlace multithreading
-
+<br/><br/>
 # ⚙ Installation
 ```
 $ git clone https://github.com/utkarsh24122/VulnHunt
