@@ -19,15 +19,15 @@ ____    ____  __    __   __      .__   __.  __    __   __    __  .__   __. .____
 
 Jump To :
 
-- [Features](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#features-)                
+- [Features](https://github.com/utkarsh24122/VulnHunt#features-)                
 
-- [Installation](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-installation)
+- [Installation](https://github.com/utkarsh24122/VulnHunt#-installation)
 
-- [Requirements](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-requirements)
+- [Requirements](https://github.com/utkarsh24122/VulnHunt#-requirements)
 
-- [Usage](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-usage)
+- [Usage](https://github.com/utkarsh24122/VulnHunt#-usage)
 
-- [ScreenShots](https://github.com/utkarsh24122/VulnHunt/blob/main/README.md#-screenshots)
+- [ScreenShots](https://github.com/utkarsh24122/VulnHunt#-screenshots)
 
 
 # Features ✨
