@@ -1,5 +1,5 @@
 # VulnHunt
-Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and many more on the target and its subdomains. 💯 
+Find CVEs, Subdomain Takeovers, XSS, SQLi, Sensitive files/directories and much more on the target and its subdomains. 💯 
 
 Check : [Features](https://github.com/utkarsh24122/VulnHunt#features-) & [Screenshots](https://github.com/utkarsh24122/VulnHunt#-screenshots)
 
